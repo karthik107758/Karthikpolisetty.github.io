@@ -29,6 +29,6 @@ I currently lead technical strategy, driving quantifiable business outcomes such
 
 |Project|Focus|Business Impact|
 | :--- | :--- | :--- |
-|Delta Airlines|Cloud Architecture, Fabric POCs, BI Modernization, RLS Governance|60% reduction in report time, 50% cut in storage costs.|
+|[Delta Airlines](https://github.com/karthik107758/Karthikpolisetty.github.io/blob/main/Project_Delta_Airlines.md)|Cloud Architecture, Fabric POCs, BI Modernization, RLS Governance|60% reduction in report time, 50% cut in storage costs.|
 |Lincoln Financials|Python/Informatica Pipelines, MicroStrategy Cloud Migration|50% reduction in data processing time, 30% reduction in infra costs.|
 |PGCPS|OBIEE/Excel to MicroStrategy/Power BI Conversion, Predictive Analytics|30% improvement in incident resolution, 15% reduction in absenteeism.|
