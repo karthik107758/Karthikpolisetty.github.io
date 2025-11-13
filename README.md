@@ -17,14 +17,15 @@ I currently lead technical strategy, driving quantifiable business outcomes such
 |AI & Strategic	|Generative AI Fundamentals, Generative AI Mastermin, MLOps, Platform Migration, Leadership, Command Manager|
 
 ## 🏅 Certifications & Professional Development
-||
-| :--- |
+|||
+| :--- | :--- |
 |Generative AI Mastermind by Outskill (Actively Reskilling in AI/ML)|
-|Neo4j Certified Professional|
-|Academy Accreditation - Generative AI Fundamentals|
+|Neo4j Certified Professional|[View Credential](https://graphacademy.neo4j.com/c/d09c5784-ef46-4cf5-a862-2649a9699221/)|
+|Academy Accreditation - AI Agent Fundamentals|[View Credential](https://credentials.databricks.com/d7320fa2-cf8a-4010-8a61-a913f53b742e)
+|Academy Accreditation - Generative AI Fundamentals|[View Credential](https://credentials.databricks.com/fd29631c-a776-477c-a789-6e6b41211489)|
 |DP-203-Data Engineering-Azure|
 |MicroStrategy Certified AI BI Professional|
-|Snowflake-Hands-On Essentials: Data Engineering, Data Warehousing, & Collaboration Workshops|
+|Snowflake-Hands-On Essentials: Data Engineering, Data Warehousing, & Collaboration Workshops|[View Credential](https://achieve.snowflake.com/8f03cdf7-d9c2-4d38-b894-c4b57f349138)|
 |MicroStrategy Certified CRD, CPD, CDMD, CPA, and CES (Version 9.4.x)|
 
 |Project|Focus|Business Impact|
