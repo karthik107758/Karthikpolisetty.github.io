@@ -11,7 +11,7 @@ I currently lead technical strategy, driving quantifiable business outcomes such
 | Category | Skills and Technologies |
 | :--- | :--- |
 | Cloud & Architecture | Microsoft Fabric, Azure Databricks, Azure Synapse Analytics, Azure Data Factory (ADF), Data Lakehouse, PySpark, AWS (S3/EC2), GCP, Multi-Cloud |
-|BI & Visualization	|Power BI, Tableau, MicroStrategy (2020-8.x), DAX, RLS, Hyperion, Cognos, OBIEE, QlikView|											
+|BI & Visualization	|Power BI, Tableau, MicroStrategy (2021-8.x), DAX, RLS, Hyperion, Cognos, OBIEE, QlikView|											
 |Data Integration (ETL)	|Informatica, DataStage, SSIS, Talend, Python, PL/SQL, T-SQL, UNIX Shell Scripting, Mulesoft, Data Services|
 |Data Warehousing & DBs	|Oracle (12c/11g), Teradata, Netezza, Snowflake, Neo4j, SAP HANA, SQL Server, Redshift|
 |AI & Strategic	|Generative AI Fundamentals, Generative AI Mastermin, MLOps, Platform Migration, Leadership, Command Manager|
