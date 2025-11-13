@@ -15,11 +15,11 @@
 |Data Migration|Genesys, Five9|Spearheaded the end-to-end migration of high-volume call center data.|
 
 ## 📈 Quantified Achievements & Business Value
-	* 50% Reduction in Data Processing Time: Achieved by automating data extraction and ETL processes using Python scripts and optimized Informatica workflows, significantly improving efficiency.
-	* 30% Reduction in Infrastructure Costs: Realized by successfully migrating the on-premises MicroStrategy environment to the cloud.
-	* 25% Increase in Reporting Performance: Direct result of the MicroStrategy cloud migration and subsequent performance tuning efforts.
-	* 40% Improvement in Data Accuracy: Achieved during the end-to-end migration of call center data from Genesys to Five9, ensuring more reliable operational insights.
-	* Stakeholder Engagement: Designed and deployed comprehensive dashboards (e.g., Voice of Customer, Quarterly Performance Guarantees) using MicroStrategy and Power BI to enable proactive, data-driven decision-making.
+* 50% Reduction in Data Processing Time: Achieved by automating data extraction and ETL processes using Python scripts and optimized Informatica workflows, significantly improving efficiency.
+* 30% Reduction in Infrastructure Costs: Realized by successfully migrating the on-premises MicroStrategy environment to the cloud.
+* 25% Increase in Reporting Performance: Direct result of the MicroStrategy cloud migration and subsequent performance tuning efforts.
+* 40% Improvement in Data Accuracy: Achieved during the end-to-end migration of call center data from Genesys to Five9, ensuring more reliable operational insights.
+* Stakeholder Engagement: Designed and deployed comprehensive dashboards (e.g., Voice of Customer, Quarterly Performance Guarantees) using MicroStrategy and Power BI to enable proactive, data-driven decision-making.
 
 ## 🔑 Key Takeaway
 This project demonstrates end-to-end data ownership, from custom API integration and Python scripting to managing complex ETL systems (Informatica) and migrating core BI infrastructure to the cloud.
