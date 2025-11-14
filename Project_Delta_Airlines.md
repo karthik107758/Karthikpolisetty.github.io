@@ -43,9 +43,6 @@ Objective: Lead the migration of legacy BI platforms (Hyperion, Cognos, SSRS, Ta
 ## 🔑 Key Takeaway
 This project demonstrates expertise not only in migrating legacy systems but in architecting the next-generation platform (Microsoft Fabric) and proving its immediate ROI in performance and cost savings.
 
-This is an excellent way to showcase the true **business value** of your dashboard work in your GitHub portfolio. Recruiters often look beyond the tool names (Power BI, Tableau) to understand the financial and operational impact of your deliverables.
-
-Here is the table in the requested Markdown format, correlating your dashboard titles with their problem statements, key metrics, and quantified business value for the Delta Air Lines project.
 
 
 
